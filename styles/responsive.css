@@ -1,0 +1,9 @@
+@media screen and (max-width: 1433px) {
+    .navbar{
+        padding: 25px 110px;
+    }
+
+    .header{
+        padding: 0px 110px;
+    }
+}
